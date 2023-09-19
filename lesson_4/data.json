@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Billie Eilish",
+    "age": 21,
+    "occupation": "Singer",
+    "songs": "everything i wanted, lovely"
+  },
+  {
+    "name": "Lana Del Rey",
+    "age": 38,
+    "occupation": "Singer",
+    "songs":"summertime sadness, radio"
+  },
+  {
+    "name": "Akon",
+    "age": 50,
+    "occupation": "Singer",
+    "songs": "lonely, smack that, lonely"
+  }
+]
